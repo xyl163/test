@@ -13,7 +13,7 @@ public class TestController {
     public JSONObject  test() {
     	JSONObject result=new  JSONObject(true);
     	result.put("message", "Hello world new");
-        System.out.println("测试！");
+        System.out.println("测试2！");
 
 
     	return  result;
